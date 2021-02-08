@@ -53,8 +53,8 @@ CustomSnackBar.make(
 
 ### To customize the snackbar, use the following params in the CustomSnackBar.make method:
 
-bgColor = To set the background color
-actionLabel = To set the action button lable
-listener = action button listener
-icon = To set the icon at the left side of the snackbar
+- bgColor = To set the background color
+- actionLabel = To set the action button lable
+- listener = action button listener
+- icon = To set the icon at the left side of the snackbar
 
