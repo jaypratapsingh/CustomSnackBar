@@ -1,7 +1,7 @@
 # CustomSnackBar
 A custom snackbar android library with icon and custom text, etc
 
-![example workflow name](https://img.shields.io/github/issues/jaypratapsingh/CustomSnackBar)   ![example workflow name](https://img.shields.io/github/license/jaypratapsingh/CustomSnackBar)   [![](https://jitpack.io/v/jaypratapsingh/CustomSnackBar.svg)](https://jitpack.io/#jaypratapsingh/CustomSnackBar)
+![example workflow name](https://img.shields.io/github/issues/jaypratapsingh/CustomSnackBar)   ![example workflow name](https://img.shields.io/github/license/jaypratapsingh/CustomSnackBar)   [![](https://jitpack.io/v/jaypratapsingh/CustomSnackBar.svg)](https://jitpack.io/#jaypratapsingh/CustomSnackBar)   ![BuildPassing](https://img.shields.io/appveyor/build/jaypratapsingh/customsnackbar)
 
 
 ## Installation:
