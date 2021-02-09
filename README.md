@@ -23,7 +23,7 @@ Step 2. Add the dependency in your app level build.gradle file
 
 ```
 dependencies {
-  implementation 'com.github.jaypratapsingh:CustomSnackBar:Tag'
+  implementation 'com.github.jaypratapsingh:CustomSnackBar:1.0'
 }
 ```
 
@@ -49,6 +49,7 @@ CustomSnackBar.make(
         duration = Snackbar.LENGTH_LONG
 ).show()
 ```
+
 
 
 ### To customize the snackbar, use the following params in the CustomSnackBar.make method:
